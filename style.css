@@ -1,0 +1,31 @@
+.a {
+    border: red solid 3px;
+    border-radius: 90px;
+    height:  250px;
+    width: 500px;
+    background-color: green;
+}
+p {
+    margin: 100px 100px;
+}
+.b {
+    border: red solid 3px;
+    border-radius: 25% 10%;
+    width: 500px;
+    height: 250px;
+    background-color: orange;
+}
+.c {
+    border: red solid 3px;
+    border-radius: 35px 10em 10%;
+    width: 500px;
+    height: 250px;
+    background-color: aqua;
+}
+.d {
+    border: red solid 3px;
+    border-radius: 50px 50% 50em 50em;
+    width: 500px;
+    height: 250px;
+    background-color: blue;
+}
